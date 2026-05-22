@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Mobile App Development, Swift, Flutter, Firebase Integration, App Store Optimization**
 
-- 🎤 Available for **Costome Mobile App Development Services** 
+- 🎤 Available for **Custom Mobile App Development Services** 
 
 - 👨‍💻 All of my projects are available at **https://www.linkedin.com/services/page/3141373278ba945354/**
 
